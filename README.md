@@ -49,4 +49,3 @@ Chain Monte Carlo (MCMC) algorithm in order to obtain a sequence of observation 
 approximate a specified probability distribution.
 
 * I am open to all remarks and suggestions.
-# RBM
