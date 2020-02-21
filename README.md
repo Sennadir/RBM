@@ -7,9 +7,9 @@ to generate samples.
 
 You will need the following packages in order to work with this implementation :
 
-* Numpy/Pandas
+* Numpy
 * Matplotlib for plotting the generated images
-* scipy -  io to load the data
+* Scipy -  io to load the data
 
 
 ### Content
